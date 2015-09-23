@@ -1,1 +1,3 @@
-# getdatacourseproject
+#Getting and Cleaning Data Course Project
+
+```run_analysis.R``` - downloads raw data if it wasn't already downloaded into working directory, then merges the training and the test sets to create one data set, names variables and labels data appropriately, extracts only the measurements on the mean and standard deviation for each measurement, and finally calculates tidy data set with the average of each variable for each activity and each subject.
